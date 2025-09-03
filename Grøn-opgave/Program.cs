@@ -33,6 +33,9 @@ namespace Grøn_opgave
                             case '3':
                                 DeleteNote(conn);
                                 break;
+                            case '4':
+                                ExitProgram();
+                                break;
                         }
                     }
                 }

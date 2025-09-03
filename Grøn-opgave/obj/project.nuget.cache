@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZcVXdIr4JoI=",
+  "dgSpecHash": "83nAhCBbcxY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lukas\\source\\repos\\Grøn-opgave\\Grøn-opgave\\Grøn-opgave.csproj",
+  "projectFilePath": "C:\\Users\\Lukas\\Documents\\GitHub\\elevoplaeg-1\\Grøn-opgave\\Grøn-opgave.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lukas\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "C:\\Users\\Lukas\\.nuget\\packages\\google.protobuf\\3.30.0\\google.protobuf.3.30.0.nupkg.sha512",

@@ -1554,11 +1554,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lukas\\source\\repos\\Grøn-opgave\\Grøn-opgave\\Grøn-opgave.csproj",
+      "projectUniqueName": "C:\\Users\\Lukas\\Documents\\GitHub\\elevoplaeg-1\\Grøn-opgave\\Grøn-opgave.csproj",
       "projectName": "Grøn-opgave",
-      "projectPath": "C:\\Users\\Lukas\\source\\repos\\Grøn-opgave\\Grøn-opgave\\Grøn-opgave.csproj",
+      "projectPath": "C:\\Users\\Lukas\\Documents\\GitHub\\elevoplaeg-1\\Grøn-opgave\\Grøn-opgave.csproj",
       "packagesPath": "C:\\Users\\Lukas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lukas\\source\\repos\\Grøn-opgave\\Grøn-opgave\\obj\\",
+      "outputPath": "C:\\Users\\Lukas\\Documents\\GitHub\\elevoplaeg-1\\Grøn-opgave\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1573,7 +1573,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
